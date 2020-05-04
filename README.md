@@ -1,6 +1,8 @@
 # Ludum Dare 46
 
 Theme: Keep it Alive
+The purpose of this game jam was to create a game from scratch in 72 hours.
+I decided to use Python. 
 
 ## How to launch the game
 
