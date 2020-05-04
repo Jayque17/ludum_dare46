@@ -58,4 +58,8 @@ python -m Fly_away
 
 ## How to play the game
 
-Todo.
+To move the butterfly you must use the arrow keys.
+
+To quit the game use the Escape key.
+
+You can use the Space key to hide the control indications.
